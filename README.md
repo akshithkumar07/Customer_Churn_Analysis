@@ -91,4 +91,7 @@ Built an interactive Power BI dashboard to visualize:
 
 * Run the Jupyter Notebook for churn predictions
 
+## Author
+### Akshith Kumar Modem
+Aspiring Data Analyst | SQL | Python | Power BI
 
